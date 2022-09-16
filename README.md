@@ -178,6 +178,10 @@
 
 ## 数据库
 
+- 数据库系统基础教程       [百度云下载链接](https://pan.baidu.com/s/10aDnMcJiFooUEssYajBUmQ)  密码:nmee
+- 自己动手设计数据库       [百度云下载链接](https://pan.baidu.com/s/1ab0dwoxmpHU7BYPuDFLnSA)  密码:tj8g
+- SQL+Server+2008 实战       [百度云下载链接](https://pan.baidu.com/s/1jFssmyZd0jm7-v4N3VjIoQ)  密码:5m2v
+
 ### SQL
 
 - Head First SQL       [百度云下载链接](https://pan.baidu.com/s/1X1hOs62vV5zOd-yy9FmvMQ)  密码:u979
@@ -208,9 +212,7 @@
 - MongoDB 权威指南       [百度云下载链接](https://pan.baidu.com/s/1mTlTzrVG5P-C0iXUz780Fg)  密码:zivs
 - MongoDB实战(第二版)       [百度云下载链接](https://pan.baidu.com/s/1M2kPlol1eBE6E2vvqvGl1Q)  密码:bhxe
 
-- 数据库系统基础教程       [百度云下载链接](https://pan.baidu.com/s/10aDnMcJiFooUEssYajBUmQ)  密码:nmee
-- 自己动手设计数据库       [百度云下载链接](https://pan.baidu.com/s/1ab0dwoxmpHU7BYPuDFLnSA)  密码:tj8g
-- SQL+Server+2008 实战       [百度云下载链接](https://pan.baidu.com/s/1jFssmyZd0jm7-v4N3VjIoQ)  密码:5m2v
+
 
 ## 并发编程
 
