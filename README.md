@@ -9,12 +9,12 @@
 </p>
 
 
-##### 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/itwanger/JavaBooks" target="_blank">点此直达 </a>
+#### 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/itwanger/JavaBooks" target="_blank">点此直达 </a>
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
 
-##### 2、🔥🔥🔥Java程序员进阶之路
+#### 2、🔥🔥🔥Java程序员进阶之路
 
 我把**自己近 10 年来学习编程的所有原创文章和学习资料**做成了一个网站，适用于**计算机校招应届生以及毕业三年之内的社招求职党**，<a href="https://tobebetterjavaer.com/" target="_blank">传送门</a>
 
@@ -26,19 +26,19 @@
 
   
 
-##### 3、👍🏻一位美团后端研发工程师的面渣逆袭手册，<a href="https://tobebetterjavaer.com/sidebar/sanfene/nixi.html" target="_blank">点此一键免费获取</a> 
+#### 3、👍🏻一位美团后端研发工程师的面渣逆袭手册，<a href="https://tobebetterjavaer.com/sidebar/sanfene/nixi.html" target="_blank">点此一键免费获取</a> 
 
-##### 4、⭐可能是2022年全网最全的学习和找工作的PDF资源，<a href="https://tobebetterjavaer.com/pdf/" target="_blank">点此一键免费获取</a> 
+#### 4、⭐可能是2022年全网最全的学习和找工作的PDF资源，<a href="https://tobebetterjavaer.com/pdf/" target="_blank">点此一键免费获取</a> 
 
-##### 5、😜发现一个相当不错的计算机各类种语言&学科学习路线， <a href="https://tobebetterjavaer.com/xuexiluxian/" target="_blank">点此查看</a>
+#### 5、😜发现一个相当不错的计算机各类种语言&学科学习路线， <a href="https://tobebetterjavaer.com/xuexiluxian/" target="_blank">点此查看</a>
 
-##### 6、赞赏
+#### 6、赞赏
 
 <div align=left>
     <p>这些书籍基本都是我从一个盗版电子书网站上收集到的，网址是：kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br><br>
       如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
 <figure class="half" align="center">
-    <img src="http://cdn.tobebetterjavaer.com/tobebetterjavaer/images/weixin-zhifu.png" style="right;zoom: 40%;" />
+    <img src="http://cdn.tobebetterjavaer.com/tobebetterjavaer/images/weixin-zhifu.png" width="260px" />
 </figure></div>
 
 
