@@ -507,6 +507,11 @@
 - 领域驱动设计.软件核心复杂性应对之道       [百度云下载链接](https://pan.baidu.com/s/1-vWWir6sWrGf9bxP6Z6KnQ)  密码:yc7f
 - 领域驱动设计精简版       [百度云下载链接](https://pan.baidu.com/s/1YnPwZMmcZfD9n7Vx7L3oYA)  密码:9e3x
 
+### Scala链接:  
+
+- 快学 Scala       [百度云下载链接](https://pan.baidu.com/s/1T1DBvocGng5rQPKHqgNZyw?pwd=hdb1)  密码:hdb1
+- Scala 编程       [百度云下载链接](https://pan.baidu.com/s/1vtSdgiwaUWqTsUszY0xVSg?pwd=ep3f)  密码:ep3f
+
 ### 区块链
 ### 人工智能
 - 机器学习与实战       [百度云下载链接](https://pan.baidu.com/s/1O9q1c7pODoZjZcV1w5QjSg)  密码:buvz
